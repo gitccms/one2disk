@@ -1,8 +1,8 @@
 # README
 ## 作者有话说
-0.编者水平不高，可能存在诸多问题，欢迎批评指正
-1.环境：centos7+nginx18+php8.3
-2.OneDrive是之前撸的开发者E5版本，最高单账号5T
+0. 编者水平不高，可能存在诸多问题，欢迎批评指正
+1. 环境：centos7+nginx18+php8.3
+2. OneDrive是之前撸的开发者E5版本，最高单账号5T
 ## Demo
 [项目演示](https://api.yocen.top/one2disk)
 ## 说明
