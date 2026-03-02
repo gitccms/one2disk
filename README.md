@@ -6,7 +6,7 @@
 ## Demo
 [项目演示](https://api.yocen.top/one2disk)
 ## 说明
-此项目使用Microsoft Graph接口[微软原文链接](https://learn.microsoft.com/zh-cn/onedrive/developer/rest-api/?view=odsp-graph-online)
+此项目使用Microsoft Graph接口[微软原文链接](https://learn.microsoft.com/zh-cn/onedrive/developer/rest-api/?view=odsp-graph-online)    
 前端主要采用[TailWindcss](https://www.tailwindcss.com/)
 ## 参考
 1.[Microsoft Graph 中的 OneDrive 和 SharePoint](https://learn.microsoft.com/zh-cn/onedrive/developer/rest-api/?view=odsp-graph-online)
