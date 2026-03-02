@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9bd1efb3-edd9-43c1-8168-473a806d3853" name="api.yocen.top">
+        <fileTransfer rootFolder="/home/web6" accessType="SFTP" host="api.yocen.top" port="22" sshConfigId="c225d264-6fc0-4bce-bad4-d4f3788d3e82" sshConfig="root@api.yocen.top:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="5f04f06d-2d2a-4524-92f0-2a7ed7191321" name="vnc">
+        <fileTransfer rootFolder="/home/" accessType="SFTP" host="vnc.yocen.top" port="22" sshConfigId="099db839-5062-4199-8e05-a91772df5c86" sshConfig="cyocen@vnc.yocen.top:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
